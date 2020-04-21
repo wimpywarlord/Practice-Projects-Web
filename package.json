@@ -1,0 +1,23 @@
+{
+    "name": "practice-projects-web",
+    "version": "1.0.0",
+    "description": "My webdev practive",
+    "main": "index.js",
+    "dependencies": {
+        "nodemon": "^2.0.3"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wimpywarlord/Practice-Projects-Web.git"
+    },
+    "author": "Kshitij Dhyani",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/wimpywarlord/Practice-Projects-Web/issues"
+    },
+    "homepage": "https://github.com/wimpywarlord/Practice-Projects-Web#readme"
+}
